@@ -1,0 +1,1 @@
+{"version":1,"defects":{"GlobalTest::testAllSteps":3,"GlobalTest::testStep1":3,"GlobalTest::testStep2":5,"GlobalTest::testStep3":3},"times":{"GlobalTest::testAllSteps":0.012,"GlobalTest::testStep1":0.005,"GlobalTest::testStep2":0.001,"GlobalTest::testStep3":0.001,"GlobalTest::testStep4":0.002,"GlobalTest::testStep5":0.004}}

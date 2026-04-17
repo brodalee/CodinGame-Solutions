@@ -1,0 +1,21 @@
+{
+    "name": "brodalee/php-codingame-challenge-template",
+    "authors": [
+        {
+            "name": "Brodalee"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "./src/"
+        }
+    },
+    "require-dev": {
+        "elementaryframework/fire-fs": "v1.2.2",
+        "phpunit/phpunit": "^9.5"
+    },
+    "scripts": {
+        "watch": "php watcher.php --timeout=999999",
+        "tests": "vendor/bin/phpunit tests --colors=always"
+    }
+}

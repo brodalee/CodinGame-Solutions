@@ -13,3 +13,8 @@ Puzzles Completed:
 [![](https://img.shields.io/github/directory-file-count/brodalee/CodinGame-Solutions/Puzzles/Hard?label=Hard&color=red)](#hard)
 
 [![](https://img.shields.io/github/directory-file-count/brodalee/CodinGame-Solutions/Puzzles/Very-Hard?label=Very%20Hard&color=purple)](#very-hard)
+
+
+Optimizations completed:
+
+[![](https://img.shields.io/github/directory-file-count/brodalee/CodinGame-Solutions/Optimization?label=Optimization&color=blue)](#easy)
